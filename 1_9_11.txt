@@ -1,0 +1,20 @@
+Сопоставьте цветовые пространства.
+
+ 	1-70-4-gamuts.png
+  
+  
+
+    RGB (Adobe RGB color space)
+    CMYK (печатные машины)
+    CMYK (дешевые принтеры)
+    RGB (sRGB color space)
+    Lab color space
+    Pro Photo RGB color space
+
+    1  
+    2  
+    3  
+    4  
+    5  
+    Нет на рисунке  
+
